@@ -10,3 +10,6 @@ Este será um commmit
 
 
 Novo exemplo de pull
+
+
+Novo exemplo de commit configurado
